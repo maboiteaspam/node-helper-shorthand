@@ -1,0 +1,14 @@
+{
+  "name": "node-helper-shorthand",
+  "version": "1.0.0",
+  "description": "various set of NODE helper shorthand tools",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maboiteaspam",
+  "license": "WTFPL"
+}
